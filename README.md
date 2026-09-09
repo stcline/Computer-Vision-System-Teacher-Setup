@@ -1,7 +1,7 @@
 # CV Curriculum — Teacher Setup Guide
 
 This repository contains everything a teacher needs to outfit a classroom
-of Raspberry Pi units for the Computer Vision Systems unit, starting from
+of Raspberry Pi units for the [Computer Vision Systems unit](https://github.com/stcline/EDD-Computer-Vision-Systems), starting from
 a stock Raspberry Pi OS Bookworm (64-bit) image.
 
 Unlike earlier pilot runs of this curriculum, this guide assumes you are
