@@ -115,12 +115,6 @@ which python3
 # should point to ~/Documents/scripts/cv_env2/bin/python3
 ```
 
-Test the first lesson script:
-
-```bash
-python3 ~/Documents/scripts/pose_basic.py
-```
-
 ## Step 4: Speeding Up Future Classroom Setups (Cloning)
 
 Once you have ONE fully working Pi (a "golden image"), you can clone its
